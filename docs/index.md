@@ -1,7 +1,6 @@
 ---
 sidebar_position: 1
 slug: /
-displayed_sidebar: mySideBar
 ---
 
 # Introduction

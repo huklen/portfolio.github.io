@@ -14,7 +14,7 @@ const config = {
   tagline: 'Portfolio',
   favicon: 'img/favicon.ico',
   url: 'https://huklen.github.io/',
-  baseUrl: '/portfolio/',
+  baseUrl: '/',
   organizationName: 'huklen', // Usually your GitHub org/user name.
   projectName: 'portfolio', // Usually your repo name.
   deploymentBranch: 'deployment',
@@ -38,6 +38,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
         },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -65,15 +66,6 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
           {
             title: 'Social',
             items: [

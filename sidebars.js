@@ -18,7 +18,7 @@ const sidebars = {
   mySideBar: [
     {
       type: 'doc',
-      id: 'introduction'
+      id: 'index'
     },
     {
       type: 'category',
