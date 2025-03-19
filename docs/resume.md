@@ -65,5 +65,18 @@
 - English
 - Swedish (native)
 
-## FAB Marketplace Profile
-- [https://www.fab.com/sellers/eelDev](https://www.fab.com/sellers/eelDev)
+# What I Bring to the Table  
+
+I’m a **highly skilled game programmer** with **20+ years of programming experience**, now specializing in **C++ and Unreal Engine**. From **solo development** to leading teams, I’ve built everything from **gameplay mechanics** and **multiplayer networking** to **server infrastructure** and **Steam integrations**.  
+
+## My Strengths
+- **Expert in Unreal Engine & C++** – Deep understanding of game architecture, networking, and performance optimization.  
+- **Multiplayer Specialist** – Proven track record in building robust matchmaking, replication, and dedicated server setups.  
+- **Gameplay Systems Designer** – Skilled in creating responsive and scalable mechanics using **Epic’s GAS**.  
+- **Leader & Mentor** – Experienced in guiding teams, onboarding programmers, and maintaining clean, modular codebases.  
+- **Entrepreneurial Mindset** – I don’t just write code—I understand how to **build, market, and sell** a product.  
+
+## Open to Opportunities
+As an **entrepreneur**, I’ve successfully **built and run my own game development company**, launching **over 25 products** ranging from **Blueprint systems to multiplayer frameworks**. I’m always open to **new ideas, collaborations, and business ventures**.  
+
+💡 **Have a startup idea? A game concept? A tech pitch?** I’m all ears. Whether it’s a contract opportunity, a long-term partnership, or a brand-new venture, I’m ready to explore new possibilities. **Let’s build something amazing**!

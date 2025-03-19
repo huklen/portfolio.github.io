@@ -51,6 +51,7 @@ const config = {
     ({
       // Replace with your project's social card
       //image: 'img/hulken.png',
+      defaultMode: 'dark',
       navbar: {
         title: '',
         /** 
