@@ -13,10 +13,10 @@ const config = {
   title: 'My Portfolio',
   tagline: 'Portfolio',
   favicon: 'img/favicon.ico',
-  url: 'https://huklen.github.io/',
+  url: 'https://johnahl.se/',
   baseUrl: '/',
   organizationName: 'huklen', // Usually your GitHub org/user name.
-  projectName: 'portfolio', // Usually your repo name.
+  projectName: 'portfolio.github.io', // Usually your repo name.
   deploymentBranch: 'deployment',
   trailingSlash: false,
   onBrokenLinks: 'throw',
@@ -50,17 +50,70 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      //image: 'img/hulken.png',
       navbar: {
-        title: 'My Portfolio',
+        title: '',
         logo: {
-          alt: 'My Portfolio',
-          src: 'img/logo.svg',
+          alt: '',
+          src: 'img/hulken.png',
         },
-        items: [
-          { href: 'https://eeldev.com', label: 'eeldev.com' },
-          { href: 'https://www.unrealengine.com/marketplace/slug/459e1c72939b4ead8b5132187808a3e7', label: 'Unreal Marketplace' },
-          
+        items: [ 
+          /*
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: 'Tutorial',
+          },
+          */
+          //{to: '/blog', label: 'Changelogs', position: 'left'},
+          {
+            type: 'doc',
+            docId: 'index',
+            label: 'ABOUT ME',
+          },
+          {
+            type: 'dropdown',
+            label: 'GAME PROJECTS',
+            items: 
+            [
+            {
+              type: 'doc',
+              label: 'STRIDEN',
+              docId: 'games/striden',
+            },
+            {
+              type: 'doc',
+              label: 'Just Us',
+              docId: 'games/just-us',
+            },
+            {
+              type: 'doc',
+              label: 'TRIGGERED',
+              docId: 'games/triggered',
+            },
+            {
+              type: 'doc',
+              label: 'Shattle',
+              docId: 'games/shattle',
+            },
+          ]
+          },
+          {
+            type: 'doc',
+            docId: 'other-projects',
+            label: 'OTHER PROJECTS',
+          },
+          {
+            type: 'doc',
+            docId: 'resume',
+            label: 'RESUME',
+          },
+          {
+            type: 'doc',
+            docId: 'contact',
+            label: 'CONTACT',
+          },
         ],
       },
       footer: {
@@ -80,19 +133,6 @@ const config = {
               {
                 label: 'YouTube',
                 href: 'https://www.youtube.com/channel/UC6Rhr_F5BxwfTtcADVPUNYA',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'eelDev (my company)',
-                href: 'https://eeldev.com/',
-              },
-              {
-                label: 'Unreal Engine Marketplace (my',
-                href: 'https://www.unrealengine.com/marketplace/slug/459e1c72939b4ead8b5132187808a3e7',
               },
             ],
           },

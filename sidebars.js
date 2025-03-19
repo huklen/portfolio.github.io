@@ -15,10 +15,15 @@
  @type {import('@docusaurus/plugin-content-docs').SidebarsConfig}
  */
 const sidebars = {
+  /*
   mySideBar: [
     {
       type: 'doc',
       id: 'index'
+    },
+    {
+      type: 'doc',
+      id: 'contact'
     },
     {
       type: 'category',
@@ -43,6 +48,7 @@ const sidebars = {
       href: 'http://eeldev.com/',
     },
   ],
+  */
 };
 
 module.exports = sidebars;
