@@ -5,11 +5,11 @@ sidebar_position: 2
 import ReactPlayer from 'react-player'
 
 # STRIDEN (PvP)
-**Role**: Lead Programmer
+**Role**: Lead Programmer 
 
 I started as the **sole programmer** on **STRIDEN**, building its entire foundation in **C++ for Unreal Engine**, utilizing **Epic's Gameplay Ability System (GAS)** for a scalable and modular architecture. As the team expanded, I transitioned into a **Lead Programmer role**, mentoring new developers and guiding them through the project’s systems.
 
-## Key Contributions
+ ## Key Contributions
 - **Core Systems Development**: Implemented character movement, shooting mechanics, animation systems, and game mode logic.  
 - **Multiplayer & Networking**: Designed matchmaking, replication, and networking features.  
 - **Gameplay Mechanics**: Developed damage, health, and stamina systems.  

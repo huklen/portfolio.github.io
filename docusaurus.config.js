@@ -53,11 +53,17 @@ const config = {
       //image: 'img/hulken.png',
       navbar: {
         title: '',
+        /** 
         logo: {
           alt: '',
           src: 'img/hulken.png',
         },
+        */
         items: [ 
+          {
+            type: 'html',
+            value: '<i class="fa fa-home fa-lg" aria-hidden="true"></i>'
+          },
           /*
           {
             type: 'doc',
